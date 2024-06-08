@@ -4,7 +4,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -17,7 +17,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по категории
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -31,7 +31,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории 
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -46,7 +46,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары по производителю
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -55,25 +55,24 @@
     На странице должны отобразиться только товары выбранного/ых производителя/ей
     
 - summary: |
-    Проверка применения фильтра "В наличии"
+    Проверка применения фильтра "In Stock"
   requirement: |
     Пользователь должен иметь возможность фильтровать товары по их наличию
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
-    Язык сайта - Русский
+    no-data
   test-data: |
     no-data
   steps:
-    - Убираем галочку у фильтра "В наличии"
+    - Убираем галочку у фильтра "Stock"
   expected-result: |
     В списке товаров должны отобразиться все товары магазина
     
 - summary: |
-    Проверка применения фильтра "Цена"
+    Проверка применения фильтра "Price"
   requirement: |
     Пользователь должен иметь возможность фильтровать товары по цене
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -87,7 +86,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -102,7 +101,7 @@
   requirement: >
     Пользователь должен иметь возможность просматривать подробную информацию о товаре
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -116,7 +115,7 @@
   requirement: >
     Пользователь должен иметь возможность добавлять товары в корзину с главной страницы
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
@@ -131,7 +130,7 @@
   requirement: >
     Пользователь должен иметь возможность добавлять товары в корзину со страницы товара
   prerequisites: |
-    Открыта страница магазина https://hexlet-products-store.vercel.app/
+    no-data
   test-data: |
     no-data
   steps:
