@@ -1,1 +1,1 @@
-Учебный проект по тестированию интернет-магазина https://hexlet-products-store.vercel.app
+Учебный проект по тестированию [интернет-магазина](https://hexlet-products-store.vercel.app)
