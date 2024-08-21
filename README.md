@@ -1,2 +1,1 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Linahzhzhz/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Linahzhzhz/qa-engineer-project-84/actions)
+Учебный проект по тестированию интернет-магазина https://hexlet-products-store.vercel.app
